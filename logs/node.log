@@ -1,0 +1,827 @@
+2025-06-18 12:42:06 DEBUG ConsumerServiceImpl:26 - TEXT : message is received
+2025-06-18 12:44:02 DEBUG ConsumerServiceImpl:26 - TEXT : message is received
+2025-06-19 11:35:21 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-19 12:24:46 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-19 13:43:40 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-19 13:43:45 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 14:51:55 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 14:52:00 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 14:52:04 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 14:52:07 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 15:07:28 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 15:07:30 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 15:07:32 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 15:09:31 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 15:09:33 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 15:09:35 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 15:09:37 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 17:08:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:08:37 DEBUG ConsumerServiceImpl:28 - TEXT : message is received
+2025-06-20 17:09:47 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:11:28 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:06 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:06 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:08 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:09 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:25 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:25 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:25 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:25 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:25 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:26 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:26 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:26 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:26 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:26 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:27 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:27 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:27 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:27 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:27 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:27 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:28 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:28 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:28 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:28 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:29 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:29 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:29 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:29 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:29 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:30 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:30 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:30 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:30 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:38 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:38 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:38 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:38 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:38 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:39 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:39 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:39 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:39 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:39 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:40 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:40 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:40 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:40 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:40 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:40 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:41 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:41 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:41 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:41 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:42 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:42 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:42 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:42 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:43 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:43 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:43 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:43 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:43 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:44 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:44 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:44 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:44 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:44 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:45 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:45 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:45 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:46 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:46 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:46 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:46 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:46 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:47 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:47 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:47 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:48 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:48 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:48 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:49 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:49 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:49 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:50 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:50 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:50 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:50 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:50 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:51 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:51 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:51 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:51 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:51 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:52 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:52 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:52 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:52 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:52 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:52 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:53 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:53 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:53 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:54 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:54 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:54 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:54 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:54 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:55 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:55 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:55 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:56 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:56 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:56 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:56 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:56 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:57 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:57 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:57 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:57 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:58 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:58 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:58 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:58 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:59 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:59 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:59 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:59 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:15:59 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:00 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:00 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:00 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:00 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:00 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:02 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:02 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:02 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:06 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:06 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:06 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:06 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:08 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:08 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:08 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:08 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:09 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:09 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:09 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:09 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:16:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:55 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:56 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:56 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:57 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:57 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:57 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:58 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:58 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:58 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:58 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:59 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:59 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:59 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:59 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:22:59 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:00 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:00 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:00 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:00 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:00 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:01 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:02 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:02 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:02 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:02 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:02 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:03 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:04 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:05 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:06 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:06 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:06 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:06 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:07 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:08 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:08 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:08 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:08 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:08 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:09 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:09 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:09 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:09 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:09 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:10 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:11 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:12 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:13 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:14 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:15 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:16 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:17 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:25 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:25 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:23:25 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:43 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:44 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:44 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:44 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:45 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:45 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:45 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:45 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:45 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:46 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:46 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:46 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:47 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:47 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:47 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:47 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:48 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:48 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:48 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:48 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:48 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:49 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:49 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:49 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:49 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:49 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:50 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:50 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:50 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:26:50 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:18 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:19 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:20 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:21 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:22 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:23 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:33:24 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:30 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:30 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:37 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:38 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:38 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:38 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:39 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:39 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:39 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:39 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:41:39 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:30 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:31 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:32 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:33 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:34 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:35 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:43:36 DEBUG ConsumerServiceImpl:44 - Photo : message is received
+2025-06-20 17:48:17 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:48:18 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:48:18 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:48:19 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:48:19 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:48:19 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:48:20 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:48:20 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:48:21 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:48:21 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:49:07 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:49:07 ERROR ConsumerServiceImpl:51 - Error while processing photo message
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request: [{"ok":false,"error_code":400,"description":"Bad Request: file_id not specified"}]
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:101)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:186)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:125)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.example.service.impl.FileServiceImpl.getFilePath(FileServiceImpl.java:141)
+	at org.example.service.impl.FileServiceImpl.processPhoto(FileServiceImpl.java:69)
+	at org.example.service.impl.MainServiceimpl.proccesPhotoMessage(MainServiceimpl.java:95)
+	at org.example.service.impl.ConsumerServiceImpl.consumephotoservice(ConsumerServiceImpl.java:49)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:171)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:120)
+	at org.springframework.amqp.rabbit.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:68)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:244)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandlerAndProcessResult(MessagingMessageListenerAdapter.java:194)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.onMessage(MessagingMessageListenerAdapter.java:137)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:1654)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.actualInvokeListener(AbstractMessageListenerContainer.java:1573)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:1561)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doExecuteListener(AbstractMessageListenerContainer.java:1552)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:1496)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:968)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:914)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$1600(SimpleMessageListenerContainer.java:83)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.mainLoop(SimpleMessageListenerContainer.java:1289)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1195)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-06-20 17:53:03 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-20 17:53:31 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:53:32 ERROR ConsumerServiceImpl:51 - Error while processing photo message
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request: [{"ok":false,"error_code":400,"description":"Bad Request: file_id not specified"}]
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:101)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:186)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:125)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.example.service.impl.FileServiceImpl.getFilePath(FileServiceImpl.java:141)
+	at org.example.service.impl.FileServiceImpl.processPhoto(FileServiceImpl.java:69)
+	at org.example.service.impl.MainServiceimpl.proccesPhotoMessage(MainServiceimpl.java:95)
+	at org.example.service.impl.ConsumerServiceImpl.consumephotoservice(ConsumerServiceImpl.java:49)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:171)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:120)
+	at org.springframework.amqp.rabbit.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:68)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:244)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandlerAndProcessResult(MessagingMessageListenerAdapter.java:194)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.onMessage(MessagingMessageListenerAdapter.java:137)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:1654)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.actualInvokeListener(AbstractMessageListenerContainer.java:1573)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:1561)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doExecuteListener(AbstractMessageListenerContainer.java:1552)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:1496)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:968)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:914)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$1600(SimpleMessageListenerContainer.java:83)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.mainLoop(SimpleMessageListenerContainer.java:1289)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1195)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-06-20 17:56:36 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:56:36 ERROR ConsumerServiceImpl:51 - Error while processing photo message
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request: [{"ok":false,"error_code":400,"description":"Bad Request: file_id not specified"}]
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:101)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:186)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:125)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.example.service.impl.FileServiceImpl.getFilePath(FileServiceImpl.java:141)
+	at org.example.service.impl.FileServiceImpl.processPhoto(FileServiceImpl.java:69)
+	at org.example.service.impl.MainServiceimpl.proccesPhotoMessage(MainServiceimpl.java:95)
+	at org.example.service.impl.ConsumerServiceImpl.consumephotoservice(ConsumerServiceImpl.java:49)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:171)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:120)
+	at org.springframework.amqp.rabbit.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:68)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:244)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandlerAndProcessResult(MessagingMessageListenerAdapter.java:194)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.onMessage(MessagingMessageListenerAdapter.java:137)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:1654)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.actualInvokeListener(AbstractMessageListenerContainer.java:1573)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:1561)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doExecuteListener(AbstractMessageListenerContainer.java:1552)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:1496)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:968)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:914)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$1600(SimpleMessageListenerContainer.java:83)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.mainLoop(SimpleMessageListenerContainer.java:1289)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1195)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-06-20 17:57:22 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 17:57:23 ERROR ConsumerServiceImpl:51 - Error while processing photo message
+org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request: [{"ok":false,"error_code":400,"description":"Bad Request: file_id not specified"}]
+	at org.springframework.web.client.HttpClientErrorException.create(HttpClientErrorException.java:101)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:186)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:125)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:711)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:602)
+	at org.example.service.impl.FileServiceImpl.getFilePath(FileServiceImpl.java:152)
+	at org.example.service.impl.FileServiceImpl.processPhoto(FileServiceImpl.java:80)
+	at org.example.service.impl.MainServiceimpl.proccesPhotoMessage(MainServiceimpl.java:95)
+	at org.example.service.impl.ConsumerServiceImpl.consumephotoservice(ConsumerServiceImpl.java:49)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:171)
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:120)
+	at org.springframework.amqp.rabbit.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:68)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:244)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.invokeHandlerAndProcessResult(MessagingMessageListenerAdapter.java:194)
+	at org.springframework.amqp.rabbit.listener.adapter.MessagingMessageListenerAdapter.onMessage(MessagingMessageListenerAdapter.java:137)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doInvokeListener(AbstractMessageListenerContainer.java:1654)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.actualInvokeListener(AbstractMessageListenerContainer.java:1573)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.invokeListener(AbstractMessageListenerContainer.java:1561)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.doExecuteListener(AbstractMessageListenerContainer.java:1552)
+	at org.springframework.amqp.rabbit.listener.AbstractMessageListenerContainer.executeListener(AbstractMessageListenerContainer.java:1496)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.doReceiveAndExecute(SimpleMessageListenerContainer.java:968)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.receiveAndExecute(SimpleMessageListenerContainer.java:914)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer.access$1600(SimpleMessageListenerContainer.java:83)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.mainLoop(SimpleMessageListenerContainer.java:1289)
+	at org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer$AsyncMessageProcessingConsumer.run(SimpleMessageListenerContainer.java:1195)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025-06-20 18:00:01 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-20 18:00:02 ERROR MainServiceimpl:100 - org.example.exceptions.UploadFileException: https://api.telegram.org/file/bot7928820197:AAH9BMpw3Cl3P4lPUJMgQBJTKdIYrufhdPc/{filePath}
+2025-06-20 18:01:37 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-23 10:45:26 DEBUG ConsumerServiceImpl:37 - DOC : message is received
+2025-06-23 11:58:51 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-23 12:01:57 DEBUG ConsumerServiceImpl:37 - DOC : message is received
+2025-06-23 12:06:37 DEBUG ConsumerServiceImpl:37 - DOC : message is received
+2025-06-23 12:07:20 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-23 12:25:35 DEBUG ConsumerServiceImpl:37 - DOC : message is received
+2025-06-23 12:29:06 DEBUG ConsumerServiceImpl:37 - DOC : message is received
+2025-06-23 12:34:11 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-23 12:34:59 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-23 12:35:01 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-23 12:35:04 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-23 12:35:06 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-23 12:35:14 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-23 12:54:15 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-23 12:57:40 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-23 13:21:12 DEBUG ConsumerServiceImpl:37 - DOC : message is received
+2025-06-23 13:24:40 DEBUG ConsumerServiceImpl:37 - DOC : message is received
+2025-06-23 13:25:11 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-24 11:28:33 DEBUG ConsumerServiceImpl:37 - DOC : message is received
+2025-06-24 11:28:41 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-24 11:28:44 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-24 11:28:45 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-24 11:29:00 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-24 11:30:06 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-24 11:30:08 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-24 11:30:25 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-24 11:30:34 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-24 11:32:18 DEBUG ConsumerServiceImpl:30 - TEXT : message is received
+2025-06-24 11:32:27 DEBUG ConsumerServiceImpl:46 - Photo : message is received
+2025-06-24 12:44:39 DEBUG ConsumerServiceImpl:46 - Photo : message is received
