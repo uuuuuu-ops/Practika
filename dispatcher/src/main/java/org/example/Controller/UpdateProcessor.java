@@ -9,7 +9,6 @@ import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;
 import org.example.service.UpdateProducer;
 
-import static org.example.model.RabbitQueue.*;
 
 @RequiredArgsConstructor
 @Component
@@ -32,8 +31,6 @@ public class UpdateProcessor {
          if(update == null){
              log.error("update dont received");
              return;
-
-
          }
 
          if(update.hasMessage()){

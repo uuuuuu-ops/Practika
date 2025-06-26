@@ -11,7 +11,6 @@ import org.example.entity.AppPhoto;
 import org.example.exceptions.UploadFileException;
 import org.example.service.FileService;
 import org.example.service.enums.LinkType;
-import org.example.utils.CryptoTool;
 import org.hashids.Hashids;
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Value;
