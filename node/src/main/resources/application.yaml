@@ -13,14 +13,21 @@ spring:
       photo-message-update: ${RABBIT_PHOTO_MESSAGE_UPDATE_QUEUE}
       answer-message: ${RABBIT_ANSWER_MESSAGE_QUEUE}
       registration-mail: ${RABBIT_REGISTRATION_MAIL_QUEUE}
+
   datasource:
     url: ${POSTGRES_URL:jdbc:postgresql://localhost:5433/pogreb}
     username: ${POSTGRES_USERNAME:rembo}
     password: ${POSTGRES_PASSWORD:194827}
+
   jpa:
     generate-ddl: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate.dialect: org.hibernate.dialect.PostgreSQLDialect
 
 token: ${TG_BOT_TOKEN}
+
 service:
   file_info:
     uri: ${TG_BOT_FILE_INFO_URI}
@@ -29,4 +36,5 @@ service:
 
 link:
   address: ${TG_BOT_URI:http://localhost:8086}
+
 salt: ${SALT:test}
